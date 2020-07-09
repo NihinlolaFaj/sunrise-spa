@@ -1,0 +1,18 @@
+en:
+  title: "Your order details"
+  orderNumber: "Order Number"
+  date: "Date"
+  print: "Print receipt"
+  description: "Description"
+  quantity: "Quantity"
+  total: "Total"
+  notFound: "Order not found"
+de:
+  title: "Ihre Bestelldetails"
+  orderNumber: "Bestellnummer"
+  date: "Datum"
+  print: "Beleg drucken"
+  description: "Beschreibung"
+  quantity: "Menge"
+  total: "Gesamtpreis"
+  notFound: "Bestellung nicht gefunden"

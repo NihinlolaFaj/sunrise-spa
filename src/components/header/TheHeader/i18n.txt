@@ -1,0 +1,10 @@
+en:
+  search: "Search"
+  stores: "Stores"
+  help: "Help"
+  previewMode: "Preview Mode"
+de:
+  search: "Suche"
+  stores: "Filiale"
+  help: "Hilfe"
+  previewMode: "????"

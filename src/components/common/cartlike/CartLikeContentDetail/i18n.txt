@@ -1,0 +1,8 @@
+en:
+  description: "Description"
+  quantity: "Quantity"
+  total: "Total"
+de:
+  description: "Beschreibung"
+  quantity: "Menge"
+  total: "Gesamtpreis"
